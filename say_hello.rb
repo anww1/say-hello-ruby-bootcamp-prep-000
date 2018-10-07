@@ -1,2 +1,3 @@
-def say_hello(phrase= "Hello,!","name")
+def say_hello(phrase= "Hello,","name!")
+puts "Hello, #{name}!"
 end
